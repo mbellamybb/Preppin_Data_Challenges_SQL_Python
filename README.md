@@ -18,5 +18,5 @@ Click on the icons (❄️ - SQL), (🐍 - Python) below to view solutions.
 
 |                                        Challenge                                        | SQL | Python |              Technique             |
 |:---------------------------------------------------------------------------------------:|:---:|:------:|:----------------------------------:|
-| [Week 1](https://preppindata.blogspot.com/2024/01/2024-week-1-prep-airs-flow-card.html) |  ❄️  |    🐍   | Split function, filters, condition |
+| [Week 1](https://preppindata.blogspot.com/2024/01/2024-week-1-prep-airs-flow-card.html) |  [❄️](https://github.com/mbellamybb/Preppin_Data_Challenges_SQL_Python/blob/main/2024/PD2024%20Week%201/Week%201%20SQL%20Solution.md)  |    🐍   | Split function, filters, condition |
 |                                          Week 2                                         |     |        |                                    |
