@@ -2,14 +2,8 @@
 
 See challenge here: https://preppindata.blogspot.com/2024/01/2024-week-1-prep-airs-flow-card.html 
 
-## Table of Contents
-
-Preppin’ Data Challenge
-Data Set
-Solution
-
 ***
-## 1. 2024: Week 1 - Prep Air's Flow Card
+## 2024: Week 1 - Prep Air's Flow Card
 
 January 03, 2024
 Created by: Carl Allchin
@@ -34,7 +28,7 @@ The first task is setting some context for later weeks by understanding how popu
 - Create two tables, one for Flow Card holders and one for non-Flow Card holders
 - Output the data sets
 ***
-## 2. Data Set
+##  Data Set
 
 Data fields:
 - FLIGHT_DETAILS
@@ -48,7 +42,7 @@ Table:
 
 
 ***
-## 2. Solution
+## Solution
 
 ### Explore data set
 ````sql
